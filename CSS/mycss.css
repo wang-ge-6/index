@@ -1,0 +1,1367 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.publicdiv {
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    /* background-image: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4050402743,887454994&fm=26&gp=0.jpg); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.topdiv {
+    width: 1180px;
+    height: 670px;
+    /* background-color: rgba(250, 12, 12, 0.911); */
+    margin: 0 auto;
+    position: relative;
+}
+
+.divhead {
+    width: 1180px;
+    height: 82px;
+    /* background-color: rgb(10, 230, 76); */
+    float: left;
+    position: relative;
+}
+
+.divstasion {
+    width: 176px;
+    height: 40px;
+    background-color: #F8F8F8ff;
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    border: 1px solid #D6D6D6;
+    text-align: center;
+    line-height: 40px;
+}
+
+.divstasion:hover {
+    background-color: #fff;
+}
+
+.i1>.img1 {
+    width: 14px;
+    height: 17px;
+    float: left;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+
+.divstasion .strong {
+    color: #0066CC;
+}
+
+.divstasion>.span1 {
+    margin-left: -50px;
+}
+
+.divstasion>.span2 {
+    font-size: 12px;
+}
+
+.i2>.img2 {
+    width: 16px;
+    height: 10px;
+    /* background-color: red; */
+    float: right;
+    margin-top: 18px;
+    margin-right: 8px;
+}
+
+.divover {
+    width: 890px;
+    height: 42px;
+    /* background-color: #fff; */
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    right: 0px;
+}
+
+
+/* .disa {
+    width: 372px;
+    height: 42px;
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    left: 50px;
+    line-height: 42px; */
+
+
+/* background-color: rgb(12, 9, 9); */
+
+
+/* } */
+
+.discover:focus {
+    outline: none;
+    text-emphasis: none;
+    background-color: #DFEEFA;
+    box-shadow: inset 0px 0px 4px 2px #E9E9E9;
+    background: rgba(223, 238, 250, 0.3);
+}
+
+.divover .discover {
+    /* float: left;
+    display: block; */
+    position: absolute;
+    left: 50px;
+    width: 348px;
+    height: 42px;
+    border: 1px solid #FA8F24;
+    box-shadow: inset 0px 0px 4px 1px #E9E9E9;
+    /* margin-right: 58px; */
+}
+
+.img3 {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.discoverico {
+    left: 400px;
+    width: 100px;
+    height: 42px;
+    background-color: #FA8F24ff;
+    position: absolute;
+    top: 50%;
+    margin-top: -21px;
+    border: 1px solid #FA8F24ff;
+    text-align: center;
+    line-height: 40px;
+    font-style: normal;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.discoverico:hover {
+    background-color: #FD742A;
+}
+
+.bodylist {
+    padding-right: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+.list {
+    top: 82px;
+    width: 328px;
+    height: 546px;
+    /* background-color: #fff; */
+    position: absolute;
+    text-decoration: none;
+}
+
+.top {
+    display: block;
+    width: 328px;
+    height: 62px;
+    /* background-color: rgb(24, 170, 255); */
+    border: 1px solid #d6d6d6;
+    line-height: 62px;
+    text-align: center;
+    padding: 0px 0px;
+}
+
+.tg {
+    width: 266px;
+    height: 58px;
+    /* background-color: red; */
+    padding: 3px;
+    margin-left: 56px;
+}
+
+
+/* .top .p1 {
+    margin: 0px 5px;
+} */
+
+.hot {
+    width: auto;
+    margin-top: -5px;
+    margin-left: 122px;
+    transform: scale(0.8);
+    padding: 0 4px;
+    border: 10px;
+    height: 19px;
+    line-height: 16px;
+    position: absolute;
+    color: #fff;
+    font-size: 12px;
+    background-image: url(https://pic.c-ctrip.com/VacationOnlinePic/sale/tag_1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.tags1 {
+    left: 26px;
+    top: 13px;
+}
+
+.tags2 {
+    left: 106px;
+    top: 13px;
+}
+
+.tags3 {
+    left: -3px;
+    top: 78px;
+}
+
+.tags4 {
+    left: 144px;
+    top: 335px;
+}
+
+.tags5 {
+    left: 69px;
+    top: 144px;
+}
+
+.tags6 {
+    left: -40px;
+    top: 144px;
+}
+
+.tags7 {
+    left: 33px;
+    top: 528px
+}
+
+.tags8 {
+    left: 145px;
+    top: 208px;
+}
+
+.tags9 {
+    left: 70px;
+    top: 272px;
+}
+
+.tags10 {
+    left: -4px;
+    top: 335px
+}
+
+.tags11 {
+    left: -5px;
+    top: 397px;
+}
+
+
+/* .tags_hot11 {
+    width: auto;
+    margin-top: -5px;
+    margin-left: 122px;
+    transform: scale(0.8);
+    padding: 0 4px;
+    border: 10px;
+    height: 19px;
+    line-height: 16px;
+    position: absolute;
+    top: 13px;
+    left: 26px;
+    color: #fff;
+    font-size: 12px;
+    background-image: url(https://pic.c-ctrip.com/VacationOnlinePic/sale/tag_1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+} */
+
+
+/* .p2 a {
+    width: 150px;
+    height: 180px;
+
+} */
+
+.li1 .p2 {
+    width: 150px;
+    height: 180px;
+    /* counter-reset: red; */
+}
+
+.li1:hover {
+    background-color: #d6d6d6;
+}
+
+.li2:hover {
+    background-color: #d6d6d6;
+}
+
+.li3:hover {
+    background-color: #d6d6d6;
+}
+
+.li4:hover {
+    background-color: #d6d6d6;
+}
+
+.li5:hover {
+    background-color: #d6d6d6;
+}
+
+.li6:hover {
+    background-color: #d6d6d6;
+}
+
+.li7:hover {
+    background-color: #d6d6d6;
+}
+
+.li8:hover {
+    background-color: #d6d6d6;
+}
+
+.li9:hover {
+    background-color: #d6d6d6;
+}
+
+.lid {
+    width: 100%;
+    height: 30px;
+    position: relative;
+    /* border-bottom: 1px solid #eee; */
+    /* background-color: rgb(248, 246, 101); */
+}
+
+
+/* .w1 {
+    margin-top: 0xp;
+}
+
+.w2 {
+    margin-top: 200xp;
+} */
+
+.lidiv1 {
+    position: absolute;
+    top: 0px;
+    left: 330px;
+    width: 400px;
+    height: 500px;
+    background-color: #fff;
+    border: 1px solid #d6d6d6;
+    display: none;
+    z-index: 1;
+    box-sizing: border-box;
+}
+
+.wtitle {
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    width: 70px;
+    color: #666666;
+}
+
+.wen {
+    /* background-color: rgb(240, 40, 40); */
+    width: 100%;
+    height: 50px;
+    position: relative;
+    float: left;
+}
+
+.l {
+    /* right: 0px; */
+    /* top: 8px; */
+    /* position: absolute;
+    text-align: left; */
+    width: 40px;
+    height: 25px;
+    /* background-color: rgb(0, 4, 255); */
+    font-size: 16px;
+    text-align: center;
+    line-height: 25px;
+    bottom: 4px;
+    position: absolute;
+}
+
+.sss1 {
+    left: 0px;
+}
+
+.sss2 {
+    bottom: 4px;
+    left: 70px;
+}
+
+.sss3 {
+    bottom: 4px;
+    left: 110px;
+}
+
+.sss4 {
+    bottom: 4px;
+    left: 150px;
+}
+
+.sss5 {
+    bottom: 4px;
+    left: 220px;
+}
+
+.ns a {
+    width: 25px;
+    color: white;
+    height: 14px;
+    background-color: red;
+    font-size: 8px;
+    text-align: center;
+    line-height: 14px;
+    margin-right: 0px;
+    position: absolute;
+    bottom: 8px;
+}
+
+.bb1 {
+    left: 40px;
+}
+
+
+/* .lidiv2 {
+    position: absolute;
+    top: 200px;
+    left: 330px;
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+    border: 1px solid #d6d6d6;
+    display: none;
+    z-index: 1;
+} */
+
+.list:hover>.lidiv1 {
+    display: block;
+}
+
+
+/* .li2:hover>.lidiv2 {
+    display: block;
+} */
+
+a {
+    text-decoration: none;
+}
+
+.list .p1 {
+    width: 36px;
+    height: 24px;
+    text-decoration: none;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+}
+
+
+/* .list .p2 {
+    width: 36px;
+    height: 24px;
+    text-decoration: none;
+    font-style: normal;
+    font-size: 16px;
+    color: #666;
+    position: absolute;
+    left: 77px;
+    width: 213px;
+    height: 524px;
+} */
+
+.lunbo {
+    width: 830px;
+    height: 328px;
+    left: 340px;
+    position: absolute;
+    top: 82px;
+    /* background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4071270496,3693837073&fm=26&gp=0.jpg); */
+}
+
+.container,
+.img,
+.container .img li,
+.container .img li img {
+    width: 830px;
+    height: 328px;
+}
+
+.container .img {
+    overflow: hidden;
+}
+
+.container .img li img {
+    display: block;
+}
+
+.container .point li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #747270;
+    cursor: pointer;
+    border: 1px solid #747270;
+    box-sizing: border-box;
+}
+
+.container .point li.active {
+    background-color: #fff;
+}
+
+.container {
+    position: relative;
+}
+
+.container .point {
+    width: 95px;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -48px;
+}
+
+.lunboicon {
+    width: 57px;
+    height: 57px;
+    top: 0px;
+    margin-left: 14px;
+    background-image: url(https://pic.c-ctrip.com/VacationOnlinePic/sale/tag_2.png);
+    background-repeat: no-repeat;
+}
+
+.lunboicon,
+em {
+    color: white;
+    font-style: normal;
+    font-size: 14px;
+    text-align: center;
+    padding: 4px 10px;
+    position: absolute;
+    left: 5px;
+}
+
+.p1 {
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    left: 20px;
+}
+
+.p2 {
+    color: #FF6913;
+    font-size: 40px;
+    position: absolute;
+    bottom: 20px;
+    right: 120px;
+}
+
+.p3 {
+    font-size: 26px;
+    color: #FF6913;
+    position: absolute;
+    bottom: 24px;
+    right: 215px;
+}
+
+.p4 {
+    color: white;
+    font-size: 12px;
+    bottom: 30px;
+    left: 20px;
+    position: absolute;
+}
+
+.hui {
+    width: 11px;
+    height: 6px;
+    color: #fff;
+    background: #ff4646;
+    border-radius: 4px;
+    position: absolute;
+    text-align: center;
+    line-height: 6px;
+    bottom: 30px;
+    left: 80px;
+    font-size: 12px;
+    padding: 5px;
+}
+
+.p5 {
+    color: white;
+    font-size: 12px;
+    bottom: 30px;
+    left: 112px;
+    position: absolute;
+}
+
+.text {
+    width: 830px;
+    height: 80px;
+    /* background-color: rgb(69, 126, 248); */
+    position: absolute;
+    bottom: 0px;
+}
+
+.bg1 {
+    /* background-color: rgb(7, 7, 7); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(https://images3.c-ctrip.com/dj/201905/tmh/sj_tmh_pc_830x460.jpg);
+    width: 415px;
+    height: 249px;
+    position: absolute;
+    left: 340px;
+    top: 410px;
+}
+
+.bg2 {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(https://images3.c-ctrip.com/dj/201905/tmh/tmtj_830x460.jpg);
+    /* background-color: rgb(22, 218, 87); */
+    width: 415px;
+    height: 249px;
+    position: absolute;
+    left: 755px;
+    top: 410px;
+}
+
+.bodydiv {
+    /* width: 1478px; */
+    height: 3220px;
+    background-color: #F4F4F4;
+    position: relative;
+    border-top: 20px solid #F4F4F4;
+}
+
+.body1 {
+    width: 1180px;
+    height: 280px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.divtime {
+    background-image: url(https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/assets/img/4a15d8883775742e3efbb850ae14def7.png);
+    width: 200px;
+    height: 280px;
+    color: #fff;
+    text-align: center;
+    float: left;
+}
+
+
+/* .ms {
+    height: 20px;
+    padding-top: 31px;
+} */
+
+.topms {
+    width: 50px;
+    height: 21px;
+    background: #fff;
+    text-align: center;
+    border-radius: 2px;
+    margin: 0 auto;
+    margin-top: 12px;
+    font-size: 14px;
+    color: #ff4646;
+    /* cursor: default; */
+}
+
+.ms i {
+    font-size: 36px;
+    font-style: normal;
+}
+
+.qiang {
+    font-style: normal;
+}
+
+.div {
+    width: 200px;
+    height: 60px;
+    /* background-color: #fff; */
+}
+
+.d1 {
+    width: 40px;
+    height: 40px;
+    background-color: #222;
+    font-size: 35px;
+    border-radius: 5px;
+}
+
+.d2 {
+    width: 16px;
+    height: 32px;
+    color: #222;
+    font-size: 30px;
+}
+
+.over {
+    margin-top: 18px;
+}
+
+.miaoshamuokuai {
+    width: 980px;
+    height: 280px;
+    float: left;
+    position: relative;
+    background-color: #fff;
+}
+
+.model {
+    /* background-image: url(https://dimg03.c-ctrip.com/images/1004050000000nm7082D0_C_500_280.jpg); */
+    width: 294px;
+    /* background-size: 256px 180px; */
+    height: 260.22px;
+    /* background-color: rgb(74, 217, 253); */
+    top: 0px;
+    float: left;
+    margin-left: 0px;
+    position: relative;
+}
+
+.hotel {
+    background-image: url(https://dimg03.c-ctrip.com/images/1004050000000nm7082D0_C_500_280.jpg);
+    width: 280px;
+    height: 156px;
+    background-size: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.tupian1 {
+    background-image: url(https://dimg03.c-ctrip.com/images/fd/tg/g3/M04/74/1D/CggYGlaV_qOAPWtXABNHE558nG8053_C_500_280.jpg);
+}
+
+.tupian2 {
+    background-image: url(https://dimg03.c-ctrip.com/images/100f04000000093keA9E8_C_500_280.jpg);
+}
+
+.tupian3 {
+    background-image: url(https://dimg03.c-ctrip.com/images/100d0h00000092bwd700F_C_500_280.jpg);
+}
+
+.tupian4 {
+    background-image: url(https://dimg03.c-ctrip.com/images/fd/tg/g2/M01/89/AC/Cghzf1Wwx3qAYZIiAAzroZxCjRA360_C_500_280.jpg);
+}
+
+.tupian5 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300v0q000000ggark13C4_C_500_280.jpg);
+}
+
+.tupian6 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300c14000000w8nr114DA_C_500_280.png);
+}
+
+.tupian7 {
+    background-image: url(https://dimg02.c-ctrip.com/images/fd/tg/g4/M05/49/6F/CggYHFZHvXiAP-NtAAL9YH103i4718_C_500_280.jpg);
+}
+
+.tupian8 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300110000000qi9uz31A3_C_500_280.png);
+}
+
+.tupian9 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300o0g0000008numtE155_C_500_280.jpg);
+}
+
+.tupian10 {
+    background-image: url(https://dimg03.c-ctrip.com/images/fd/tg/g2/M04/8B/9B/CghzgFWw4DiAaCUiAB8tqu93CFQ434_C_500_280.jpg);
+}
+
+.tupian11 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300u0m000000dxhxo847D_C_500_280.jpg);
+}
+
+.tupian12 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300s160000010ote7A283_C_500_280.jpg);
+}
+
+.tupian13 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300n0w000000kedaoDAE7_C_500_280.jpg);
+}
+
+.tupian14 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300t0e00000077p6b69C9_C_500_280.jpg);
+}
+
+.tupian15 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300t160000010hzj199FF_C_500_280.jpg);
+}
+
+.tupian16 {
+    background-image: url(https://dimg04.c-ctrip.com/images/300i0t000000ig9cmA7E9_C_500_280.jpg);
+}
+
+.tupian17 {
+    background-image: url(https://dimg03.c-ctrip.com/images/fd/tg/g5/M09/65/84/CggYr1cVyqSASdomAA4OYUC1CT0295_C_500_280.jpg);
+}
+
+.tupian18 {
+    background-image: url(https://dimg03.c-ctrip.com/images/100h0p000000fjze33E3D_C_500_280.jpg);
+}
+
+.tupian19 {
+    background-image: url(https://dimg03.c-ctrip.com/images/100m0p000000fpl9l717C_C_500_280.jpg);
+}
+
+.tupian20 {
+    background-image: url(https://dimg04.c-ctrip.com/images/310j13000000tlehd7C63_R_500_280.jpg);
+}
+
+.tupian21 {
+    background-image: url(https://dimg04.c-ctrip.com/images/310a0u000000j4ijfCCE3_R_500_280.png);
+}
+
+.tupian22 {
+    background-image: url(https://dimg04.c-ctrip.com/images/310a0u000000j4ijfCCE3_R_500_280.png);
+}
+
+.tupian23 {
+    background-image: url(https://dimg01.c-ctrip.com/images/fd/tg/g1/M05/5B/D5/CghzfVWWRyGAebbwAAGfAQvrqRU127_C_500_280.jpg);
+}
+
+.tupian24 {
+    background-image: url(https://dimg04.c-ctrip.com/images/350d13000000tqdqrE203_C_500_280.jpg);
+}
+
+.tupian25 {
+    background-image: url(https://dimg04.c-ctrip.com/images/350f0x000000lcke0D148_C_500_280.jpg);
+}
+
+
+/* .ziyou {
+    background-color: rgb(14, 13, 13);
+} */
+
+.jianjie {
+    position: absolute;
+    left: 0px;
+    bottom: 57px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    padding: 5px 10px 0 10px;
+    width: 260px;
+    height: 40px;
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.monny .i {
+    font-style: normal;
+    color: #ff6913;
+    font-size: 18px;
+    position: absolute;
+    bottom: 26px;
+    left: 7px;
+}
+
+.monny #i1 {
+    font-style: normal;
+    color: #ff6913;
+    font-size: 18px;
+    position: absolute;
+    bottom: 48px;
+    left: 20px;
+}
+
+.monny strong {
+    margin: 0 2px;
+    font-weight: 700;
+    font-size: 26px;
+    position: absolute;
+    bottom: -24px;
+}
+
+.monny em {
+    font-size: 14px;
+    color: #999;
+    font-style: normal;
+    position: absolute;
+    bottom: 23px;
+    left: 78px;
+}
+
+.monny span {
+    width: 64px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    color: #fff;
+    background: #ff4646;
+    border-radius: 12px;
+    margin-top: 5px;
+    font-size: 12px;
+    position: absolute;
+    bottom: 29px;
+    right: 25px;
+}
+
+
+/* .iconfont icon-xiangyou {
+    color: white;
+} */
+
+.shanghai {
+    position: absolute;
+    color: white;
+    font-style: normal;
+    top: 0px;
+    left: 0px;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    z-index: 2;
+    background-image: url(https://pic.c-ctrip.com/VacationOnlinePic/sale/tag_blue.png)
+}
+
+.ziyou {
+    position: absolute;
+    color: white;
+    font-style: normal;
+    top: 0px;
+    left: 60px;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    z-index: 2;
+    background-image: url(https://pic.c-ctrip.com/VacationOnlinePic/sale/tag1.png);
+}
+
+.lefticon {
+    width: 30px;
+    height: 55px;
+    background-color: #bbb;
+    /* border: 1px solid #333; */
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    left: 0px;
+    overflow: hidden;
+    position: absolute;
+    top: 40%;
+    line-height: 55px;
+}
+
+.left {
+    /* background-image: url(); */
+    font-style: normal;
+    font-size: 21px;
+    color: white;
+    padding: 0px;
+    margin: 10px 7px;
+}
+
+.righticon {
+    width: 30px;
+    height: 55px;
+    background-color: #bbb;
+    /* border: 1px solid #333; */
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    right: 0px;
+    position: absolute;
+    top: 40%;
+    line-height: 55px;
+    /* padding: 0px 5px; */
+}
+
+.right {
+    /* background-image: url(); */
+    font-style: normal;
+    font-size: 21px;
+    color: white;
+    padding: 0px;
+    margin: 0px 9px;
+    position: absolute;
+}
+
+.includemodel {
+    margin: 0px 55px;
+    width: 100%;
+    height: 100%;
+    top: 20px;
+    position: absolute;
+    /* background-color: red; */
+}
+
+.contrue {
+    width: 100%;
+    height: 100%;
+    /* background-color: rgb(71, 247, 247); */
+    padding: 56px 2px;
+    box-sizing: border-box;
+}
+
+.xjb {
+    width: 280px;
+    /* height: 261px; */
+    /* background-color: red; */
+    float: left;
+    margin-bottom: 0px;
+    padding: 0px 7px;
+    /* box-sizing: border-box;
+    padding: 0px 5px; */
+}
+
+.xjbmode {
+    width: 1180px;
+    height: 317.4px;
+    background-color: white;
+    margin: 30px auto;
+    position: relative;
+}
+
+.xjbtop {
+    width: 1161px;
+    height: 30px;
+    /* background-color: red; */
+    position: absolute;
+    top: 11px;
+    left: 9px;
+    border-bottom: 2px solid #ececec;
+    display: inline block;
+}
+
+.xjbtop1 {
+    font-size: 13px;
+    float: left;
+}
+
+.zb1 {
+    color: #FF6D6D;
+}
+
+.zb2 {
+    color: #609359;
+}
+
+.zb3 {
+    color: #C28B2F;
+}
+
+.zb4 {
+    color: #6BAFDD;
+}
+
+.zb5 {
+    color: #C38ED2;
+}
+
+.zb6 {
+    color: #F5AF91;
+}
+
+.line {
+    width: 8px;
+    height: 20px;
+    margin-right: 0px;
+    /* display: inline-block; */
+    top: 4px;
+    float: left;
+    margin: 4px 18px 5px 0px;
+}
+
+.lb1 {
+    background: #ff6d6d;
+}
+
+.lb2 {
+    background: #609359;
+}
+
+.lb3 {
+    background: #C28B2F;
+}
+
+.lb4 {
+    background: #6BAFDD;
+}
+
+.lb5 {
+    background: #C38ED2;
+}
+
+.lb6 {
+    background: #F5AF91;
+}
+
+.more {
+    font-size: 14px;
+    height: 20px;
+    width: 45px;
+    color: #999;
+    text-align: right;
+    float: right;
+    margin-top: 7px;
+    position: relative;
+}
+
+.more:hover {
+    color: #0066CC;
+}
+
+.xibtop2 {
+    width: 850px;
+    height: 31px;
+    overflow: hidden;
+    white-space: nowrap;
+    float: left;
+    /* background-color: red; */
+}
+
+.mo1 {
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    float: left;
+    position: relative;
+    height: 27px;
+    line-height: 28px;
+    /* padding: 0 0px;      */
+    margin: 0 0px;
+    padding: 0 0px;
+}
+
+.mo2 {
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    float: left;
+    position: relative;
+    height: 27px;
+    line-height: 28px;
+    /* padding: 0 0px;      */
+    margin: 0 0px;
+    padding: 0 0px;
+}
+
+.mo3 {
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    float: left;
+    position: relative;
+    height: 27px;
+    line-height: 28px;
+    /* padding: 0 0px;      */
+    margin: 0 0px;
+    padding: 0 0px;
+}
+
+.mo4 {
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    float: left;
+    position: relative;
+    height: 27px;
+    line-height: 28px;
+    /* padding: 0 0px;      */
+    margin: 0 0px;
+    padding: 0 0px;
+}
+
+.mo5 {
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    float: left;
+    position: relative;
+    height: 27px;
+    line-height: 28px;
+    /* padding: 0 0px;      */
+    margin: 0 0px;
+    padding: 0 0px;
+}
+
+.mo6 {
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    float: left;
+    position: relative;
+    height: 27px;
+    line-height: 28px;
+    /* padding: 0 0px;      */
+    margin: 0 0px;
+    padding: 0 0px;
+}
+
+.xibtop2 li {
+    width: 57px;
+    height: 27px;
+    margin-left: 10px;
+    list-style: none;
+    float: left;
+    padding: 0px 25px;
+    /* background-color: rgb(180, 7, 7); */
+}
+
+.boxhover>li .mo1:hover {
+    color: #ff6d6d;
+    border-bottom: 10px solid #ff6d6d;
+}
+
+.boxhover>li .mo2:hover {
+    color: #609359;
+    border-bottom: 10px solid #609359;
+}
+
+.boxhover>li .mo3:hover {
+    color: #C28B2F;
+    border-bottom: 10px solid #C28B2F;
+}
+
+.boxhover>li .mo4:hover {
+    color: #55AADC;
+    border-bottom: 10px solid #55AADC;
+}
+
+.bodytwo {
+    height: 576.8px;
+}
+
+.bodytree {
+    height: 353.8px;
+}
+
+.body-2 {
+    background-image: url(https://dimg03.c-ctrip.com/images/fd/tg/g1/M04/CB/99/CghzflWw7F2ATxCcABtxFWU_LNw686_C_500_280.jpg);
+    width: 280px;
+    height: 300px;
+    background-size: 214%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    /* background-color: rgb(196, 26, 26); */
+}
+
+.xjb-two {
+    width: 267px;
+    height: 376px;
+    float: left;
+    margin-bottom: 0px;
+    padding: 0px 7px;
+    /* background-color: rgb(240, 24, 24); */
+}
+
+.xjb-tree {
+    width: 266px;
+    height: 275px;
+    float: left;
+    margin-bottom: 0px;
+    padding: 0px 7px;
+    /* background-color: rgb(240, 24, 24); */
+}
+
+.bottommode {
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    /* text-align: left; */
+    padding: 0 10px 0 10px;
+    /* margin-bottom: 23px; */
+    /* background-color: rgb(207, 2, 2); */
+    position: absolute;
+    bottom: 0px;
+    width: 261px;
+    height: 137px;
+    left: 9px;
+    text-align: center;
+}
+
+.body-a {
+    background-image: url(https://dimg03.c-ctrip.com/images/fd/tg/g4/M09/D7/9C/CggYHVZOgw6AIRdfACC-7ef6xAA918_C_500_280.jpg);
+    width: 280px;
+    height: 275px;
+    background-size: 176%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.body-b {
+    background-image: url(https://pic.c-ctrip.com/VacationOnlinePic/sale/djth.jpg);
+    width: 280px;
+    height: 275px;
+    background-size: 113%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.body-c {
+    background-image: url(https://pic.c-ctrip.com/VacationOnlinePic/sale/ddwl.jpg);
+    width: 280px;
+    height: 275px;
+    background-size: 113%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.huih {
+    width: 11px;
+    height: 6px;
+    color: #fff;
+    background: #ff4646;
+    border-radius: 4px;
+    position: absolute;
+    text-align: center;
+    line-height: 6px;
+    bottom: 10px;
+    left: 13px;
+    font-size: 12px;
+    padding: 5px;
+}
+
+.p5p {
+    color: white;
+    font-size: 12px;
+    bottom: 10px;
+    left: 47px;
+    position: absolute;
+}
+
+.hp {
+    background-color: rgb(5, 5, 5);
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    bottom: 0px;
+    background: rgba(0, 0, 0, 0.3);
+}

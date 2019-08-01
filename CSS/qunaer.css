@@ -1,0 +1,614 @@
+* {
+    padding: 0px;
+    margin: 0px
+}
+
+body {
+    height: 68.31875rem;
+}
+
+a {
+    text-decoration: none;
+    font-size: .32rem;
+}
+
+.head {
+    width: 10rem;
+    height: 1.1214063rem;
+    /* background-color: red; */
+    position: relative;
+    display: flex;
+    margin-top: .4rem;
+    padding-bottom: .266666rem;
+}
+
+.head-login {
+    position: absolute;
+    right: .3210625rem;
+    top: .03125rem;
+}
+
+.ico {
+    width: 1.258125rem;
+    height: .9375rem;
+    /* background-color: rgb(14, 63, 199); */
+    background-image: url(https://s.qunarzz.com/homenode/images/logo_camel.png);
+    background-size: 100% 100%;
+    position: absolute;
+    margin-left: .26625rem;
+}
+
+.head-title {
+    width: 6.737906rem;
+    height: .9375rem;
+    /* background-color: rgb(45, 66, 250); */
+    font-size: .479982rem;
+    margin-left: 1.786rem;
+    margin-top: .03125rem;
+}
+
+
+/* 登录图标未写完 */
+
+.iconfont {
+    width: .9375rem;
+    height: .925rem;
+    font-size: .78125rem;
+    /* margin-right: 0rem; */
+}
+
+
+/*     
+    .login {
+        width: .9375rem;
+        height: .925rem;
+        background-image: url(E:\我的文件\H5\第一次大作业\img\登录.png);
+        background-size: 100% 100%;
+        background-color: rgb(65, 252, 81);
+    } */
+
+.headline1 {
+    width: 9.6275rem;
+    height: 2.328438rem;
+    /* background-color: rgb(198, 53, 255); */
+    margin: 0rem .1875rem;
+    display: flex;
+    justify-content: space-between;
+    /* float: left; */
+}
+
+.box {
+    width: 1.925312rem;
+    height: 1.955938rem;
+    /* background-color: rgb(8, 8, 8); */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.imgg {
+    width: 1.347813rem;
+    height: 1.347813rem;
+    margin: 0 auto;
+}
+
+.name {
+    font-size: .32rem;
+    color: black;
+    /* margin-left: .625rem; */
+    text-align: center;
+    /* margin-bottom: 0px; */
+}
+
+.headline2 {
+    width: 9.6275rem;
+    height: 1.943437rem;
+    /* background-color: rgb(103, 250, 74); */
+    margin: 0rem .1875rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headline2img {
+    width: .94rem;
+    height: .94rem;
+}
+
+.headline3img {
+    width: .5775rem;
+    height: .5775rem;
+}
+
+.headline1imgname {
+    margin-top: -0.5rem;
+    margin-left: .3625rem;
+    height: .425rem;
+}
+
+.headline2imgname {
+    margin-top: -0.6rem;
+    margin-left: .123625rem;
+    height: .425rem;
+}
+
+.headline22imgname {
+    margin-top: -0.32rem;
+    margin-left: .0123625rem;
+    height: .425rem;
+}
+
+.headline3 {
+    height: 1.558125rem;
+    width: 9.6275rem;
+    /* background-color: rgb(103, 250, 74); */
+    margin: 0rem .1875rem;
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-content: left; */
+}
+
+.bodytitle {
+    overflow: hidden;
+    height: .925rem;
+    /* background-color: rgb(221, 245, 83); */
+    position: relative;
+    margin: 0rem .2775rem;
+    /* float: left; */
+}
+
+.bodyul {
+    width: 6.784687rem;
+    height: .809063rem;
+    display: flex;
+    float: left;
+    font-size: .32rem;
+    justify-content: space-between;
+    text-align: center;
+    line-height: .809063rem;
+    /* margin-left: 0px; */
+    /* background-color: rgb(238, 20, 20); */
+}
+
+.avtive {
+    width: 2.155rem;
+    height: .809063rem;
+    /* border: .03125rem solid rgb(177, 177, 177); */
+    border-radius: .09375rem;
+    background-color: #17C0C8;
+    /* left: 0rem; */
+    /* position: absolute; */
+}
+
+.a {
+    color: #fff;
+}
+
+.b {
+    color: #666;
+}
+
+.avtive2 {
+    background-color: #fff;
+    width: 2.0992812rem;
+    border: 1px solid #d7d7d7;
+    height: .74063rem;
+    border-radius: .09375rem;
+}
+
+.avtive3 {
+    background-color: #fff;
+    width: 2.155rem;
+    height: .74063rem;
+    border: 1px solid #d7d7d7;
+    border-radius: .09375rem;
+}
+
+.more {
+    position: absolute;
+    right: -8.32rem;
+    color: #666;
+    font-size: .32rem;
+    font-family: "SimSun";
+    line-height: .925rem;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #000;
+    font-size: .32rem;
+}
+
+.space {
+    width: 100%;
+    height: 10.507188rem;
+    /* background-color: rgb(247, 59, 59); */
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 6px;
+}
+
+.bodybox {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(67, 231, 253); */
+    width: 5.0rem;
+    height: 2.6875rem;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.litlebox {
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: rgb(243, 124, 124); */
+    width: 4.95rem;
+    height: 2.372165625rem;
+    margin-left: .2210625rem;
+    background-size: 100% 100%;
+    border-radius: .09375rem;
+}
+
+.imgl {
+    background-image: url(https://imgs.qunarzz.com/p/tts5/1704/7c/d44de0a04af9be02.jpg_r_390x260x90_e88f5cdc.jpg);
+}
+
+
+/* 在这重新添加图片 */
+
+.img2 {
+    background-image: url(https://imgs.qunarzz.com/vs_ceph_vs_tts/175e1e78-32df-4003-be9c-75e7ebc6d93b.jpg_r_480x320x90_23e9ef19.jpg);
+}
+
+.img4 {
+    background-image: url(https://imgs.qunarzz.com/vs_ceph_vs_tts/3258859e-f162-4991-871d-74f4188f96ee.jpg_r_480x320x90_21cf4e67.jpg);
+}
+
+.img5 {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://imgs.qunarzz.com/p/tts0/1612/d4/e37fd6f161fc1102.jpg_r_480x320x90_97fa016a.jpg);
+}
+
+.img6 {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://imgs.qunarzz.com/p/p48/201302/28/bc44faa497db0dcf93835fbb.jpg_256x160_0ba13461.jpg);
+}
+
+.img7 {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://imgs.qunarzz.com/p/p26/201302/28/d98c85ce311ea98693835fbb.jpg_256x160_5197fb68.jpg);
+}
+
+.img8 {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://imgs.qunarzz.com/sight/p0/1504/de/de67e39701f98515.water.jpg_256x160_1ccdec10.jpg);
+}
+
+.img9 {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://imgs.qunarzz.com/p/p78/201302/28/c2da123d4bb12ee593835fbb.jpg_256x160_3755801b.jpg);
+}
+
+.img10 {
+    background-image: url(https://imgs.qunarzz.com/p/p53/201309/24/49e90d4632edbd7d93835fbb.jpg_256x160_50bfc2a3.jpg);
+}
+
+.img11 {
+    background-image: url(https://imgs.qunarzz.com/sight/p0/201403/03/77a8f60ea243465fdf2c937e2edd33dd.jpg_256x160_7e5203ad.jpg);
+}
+
+.img12 {
+    background-image: url(https://imgs.qunarzz.com/sight/p0/1612/1d/1d9a740c1f9e0efaa3.img.jpg_256x160_12c61709.jpg);
+}
+
+
+/* .texl {
+    padding: .09375rem;
+} */
+
+.img14 {
+    background-image: url(https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/7d9b233c71cad13ded0013f9c9cec635.jpg);
+}
+
+.img15 {
+    background-image: url(https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/fd16ccffb2e2376ff370bda3bebebd71.jpg);
+}
+
+.img16 {
+    background-image: url(https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/c2ae82fcc9fa11fa253e5919c49bcfbf.jpg);
+}
+
+.img17 {
+    background-image: url(https://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/5a11974656794b4715156501be10c1b7.jpg);
+}
+
+.one {
+    width: 4.63375rem;
+    height: .55rem;
+    /* background-color: rgb(48, 226, 4); */
+    margin-top: .3215625rem;
+    margin-left: .1875rem;
+}
+
+.two {
+    width: 4.63375rem;
+    height: .55rem;
+    /* background-color: rgb(48, 226, 4); */
+    margin-top: -0.6093215625rem;
+    margin-left: .1875rem;
+}
+
+.two2 {
+    width: 4.63375rem;
+    height: .55rem;
+    /* background-color: rgb(48, 226, 4); */
+    margin-top: 0.236093215625rem;
+    margin-left: .1875rem;
+}
+
+.three {
+    width: 4.63375rem;
+    height: .55rem;
+    /* background-color: rgb(48, 226, 4); */
+    margin-top: -0.686543215625rem;
+    margin-left: .1875rem;
+}
+
+#a1 {
+    /* margin-top: 0px; */
+    font-size: .373437rem;
+    display: block;
+}
+
+#a2 {
+    /* margin-top: 0px; */
+    font-size: .346875rem;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #555;
+}
+
+em {
+    color: #ff7400;
+    font-size: 0.48346875rem;
+    font-style: normal;
+    font-weight: 700;
+    float: left;
+    display: block;
+}
+
+.three>:nth-child(3) {
+    font-weight: 400;
+    font-size: 0.34rem;
+    margin-left: .09375rem;
+    margin-top: .0878125rem;
+}
+
+
+/* 轮播图开始*/
+
+.container,
+.img,
+.container .img li,
+.container .img li img {
+    height: 3.124687rem;
+    width: 9.766563rem;
+    margin-left: .0453125rem;
+    border-radius: .09375rem;
+}
+
+.container .img {
+    overflow: hidden;
+}
+
+.container .img li img {
+    display: block;
+}
+
+.container .point li {
+    display: inline-block;
+    width: 0.2346875rem;
+    height: .246875rem;
+    border-radius: 50%;
+    background-color: #fff;
+    cursor: pointer;
+    border: 1px solid #d7d7d7;
+    box-sizing: border-box;
+}
+
+.container .point li.active {
+    background-color: #d7d7d7;
+}
+
+.container {
+    position: relative;
+}
+
+.container .point {
+    width: 3.53125rem;
+    position: absolute;
+    bottom: 0.13125rem;
+    left: 54%;
+    margin-left: -1.5rem;
+}
+
+
+/* 轮播图结束 */
+
+
+/* .lubo {
+    width: 100%;
+    height: 3.124687rem;
+} */
+
+.h3 {
+    height: 1.4rem;
+    /* background-color: rgb(69, 241, 121); */
+    font-size: .48rem;
+    line-height: 1.4rem;
+    position: relative;
+    margin-left: .21875rem;
+    display: flex;
+}
+
+.conterbox {
+    height: 13.148438rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img3 {
+    height: 2.3465625rem;
+    border-radius: .09375rem;
+    background-image: url(https://imgs.qunarzz.com/p/p66/201304/17/384810d022dd28f793835fbb.jpg_256x160_6a7ec251.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bc {
+    width: 2.5rem;
+    height: 1.066406rem;
+    /* padding: .133344rem .32rem; */
+    background-color: black;
+    align-self: flex-end;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    overflow: hidden;
+}
+
+.bc :nth-child(1) {
+    color: #fff;
+    font-size: .373333rem;
+}
+
+.bc :nth-child(2) {
+    color: #ffde00;
+    font-size: .266666rem;
+}
+
+.more1 {
+    position: absolute;
+    /* right: .4321875rem; */
+    top: .321875rem;
+    /* right: 0.68rem; */
+    /* margin-right: 0px; */
+    /* display: inline block; */
+    color: #666;
+    font-size: .32rem;
+    font-family: "SimSun";
+    line-height: .925rem;
+    font-weight: 400;
+    font-size: 0.34rem;
+}
+
+.cencondbox {
+    width: 9.646875rem;
+    height: 4.71875rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -0.1875rem;
+    margin-top: .3125rem;
+}
+
+.block {
+    height: 9.758125rem;
+    margin-left: .21875rem;
+}
+
+.blocklite {
+    width: 9.6466875rem;
+    height: 4.984375rem;
+    background-image: url(https://imgs.qunarzz.com/p/p66/201304/17/384810d022dd28f793835fbb.jpg_256x160_6a7ec251.jpg);
+    background-size: 100% 100%;
+    border-radius: .09375rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bodyu2 {
+    width: 5.48125rem;
+    height: .809063rem;
+    display: flex;
+    float: left;
+    font-size: .32rem;
+    justify-content: space-between;
+    text-align: center;
+    line-height: .809063rem;
+    /* margin-left: 0px; */
+    /* background-color: rgb(238, 20, 20); */
+}
+
+.avtive4 {
+    width: 2.928125rem;
+    height: .809063rem;
+    display: flex;
+    color: #666;
+    border-radius: 3px;
+    justify-content: center;
+    /* background-color: red; */
+    border: 1px solid #d7d7d7;
+}
+
+.avtive5 {
+    display: flex;
+    color: #666;
+    border-radius: 3px;
+    justify-content: center;
+    border: 1px solid #d7d7d7;
+    width: 2.155rem;
+    height: .809063rem;
+    border-radius: .09375rem;
+    background-color: #17C0C8;
+}
+
+.avtive5>:nth-child(1) {
+    color: #fff;
+}
+
+.foot {
+    /* width: 100%; */
+    height: 3.232813rem;
+    padding: .266667rem;
+    text-align: center;
+    overflow: hidden;
+}
+
+span {
+    /* height: .55rem; */
+    width: 100%;
+    display: block;
+}
+
+.spana {
+    font-size: .375rem;
+    color: #666;
+    display: inline-block;
+    margin-top: 0rem;
+}
+
+.spana5 {
+    font-size: .375rem;
+    color: #666;
+    display: inline-block;
+    margin-top: .415625rem;
+}
+
+
+/*     
+    .spanaicon {
+        width: .5625rem;
+        height: .5625rem;
+        background-size: 100% 100%;
+        background-image: url(https://source.qunarzz.com/common/hf/24h.png);
+    } */
